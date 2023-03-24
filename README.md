@@ -5,4 +5,4 @@ Mancala is an ancient popular board game with many different versions and rules 
 # Notes
 Every single detail will be published here in a month as a guide on how to play the game exactly and how to use the engine.
 
-In a year I will publish a Flutter application of this game in which players can play together online or with the application using the engine.
+In a year I will publish a Flutter application of this game in which players can play together online or against the engine.
